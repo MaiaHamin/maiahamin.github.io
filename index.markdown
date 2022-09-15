@@ -7,15 +7,19 @@ layout: page
 
 **Biography:**
 
-I'm currently a <a href="https://www.techcongress.io">TechCongress</a> fellow serving in the office of Senator Ron Wyden. I've been analyzing and writing legislation and letters on consumer privacy, responsible AI, government-used tech, surveillance oversight, and future-of-money.
+I'm currently a <a href="https://www.techcongress.io">TechCongress</a> fellow serving in the office of Senator Ron Wyden. I've gotten to write legislative text and letters on consumer privacy, responsible AI, federal IT, surveillance oversight, digital identity, and future-of-money.
 
-Before that I was a software engineer on the Privacy and Civil Liberties team at Palantir for a year and a half. I spent most of my time building products for data governance and privacy -- I was a full-stack+ engineer, designing and building things from APIs and data stores to front-end features and performance metrics, and working with customers to set up governance tools and integrate their feature needs back into the product. I co-ran a program called the PCL Vanguard, coordinating an internal course on privacy and civil liberties  for cohorts of employees from throughout the company and mentoring them through a project to advance PCL in their core work area.
+Before that I was a software engineer on the Privacy and Civil Liberties team at Palantir for 1.5 years. I spent most of my time building products for data governance and privacy. Along the way I touched most parts of the stack, designing and building things from APIs to data stores to front-end features to performance metrics and monitoring. Towards the end, I spent more time working with customers -- breaking down their governance and security needs, helping them set up governance tools and access controls, and integrating their feedback and feature requests back into the roadmap for the product. I also co-ran a program called the PCL Vanguard, in which we coordinated a course on privacy and civil liberties for cohorts of employees from throughout the company and mentored them through a project to advance PCL in their core work area.
 
-Before that I was getting my bachelor's degree in Computer Science at Princeton, with certificates in Cognitive Science and Technology and Society. I worked as a mentor at the AI4All program, a research assistant in the Eviction Lab, and a grader for a machine learning course. I ran the <a href="https://issuu.com/tigermagazine">Princeton Tiger</a>, a humor magazine of ill repute, and co-ran <a href="https://interface.cs.princeton.edu/">INTERFACE</a>, a discussion group on issues at the intersection of computing tech and society.
+Before that I was getting my bachelor's degree in Computer Science at Princeton, with certificates in Cognitive Science and Technology and Society. I worked as a mentor at the <a href="https://ai-4-all.org/">AI4All</a> program, a research assistant in the <a href="https://evictionlab.org/">Eviction Lab</a>, and a grader for a machine learning course. I ran the <a href="https://issuu.com/tigermagazine">Princeton Tiger</a>, a humor magazine of ill repute, and co-ran <a href="https://interface.cs.princeton.edu/">INTERFACE</a>, a discussion group on issues at the intersection of computing tech and society.
 
 **Goals and Interests**
 
-Broadly, my goal is to work on governance for data and computing tech. The pieces of that puzzle probably involve policy that incentivizes the development of beneficial, values-aligned tech, and prevents bad attractor states in the relationships between humans, companies, and data technology. I try to be thoughtful in identifying and articulating potential harms, mindful about tradeoffs, and always grounded in the realm of technical fact when thinking about solutions.
+Broadly, my goal is to work on governance for data and computing tech.
+
+One piece of that puzzle is figuring out how to design policy that incentivizes the development of beneficial, values-aligned tech, and prevents bad attractor states in the relationships between humans, companies, and data technology. Another is finding spaces where the technology is so new that the policy needs are still unknown -- and then trying to learn from and work with people who are trying to build the tech in the right way.
+
+I try to be thoughtful in identifying and articulating potential harms, mindful about tradeoffs, and always grounded in the realm of technical fact when thinking about solutions.
 
 I'm always trying to learn more about:
 
